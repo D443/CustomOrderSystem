@@ -1,0 +1,14 @@
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\CustomOrderSystem.Mapper.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\CustomOrderSystem.Mapper.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\CustomOrderSystem.Entity.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\CustomOrderSystem.Model.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\EntityFramework.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\CustomOrderSystem.Entity.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\CustomOrderSystem.Entity.dll.config
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\CustomOrderSystem.Model.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\bin\Debug\EntityFramework.xml
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\obj\Debug\CustomOrderSystem.Mapper.csprojAssemblyReference.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\obj\Debug\CustomOrderSystem.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\obj\Debug\CustomOrderSystem.Mapper.csproj.CopyComplete
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\obj\Debug\CustomOrderSystem.Mapper.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Mapper\obj\Debug\CustomOrderSystem.Mapper.pdb

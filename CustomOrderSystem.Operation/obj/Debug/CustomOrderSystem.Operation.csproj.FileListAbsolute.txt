@@ -1,0 +1,15 @@
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CustomOrderSystem.Operation.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CustomOrderSystem.Operation.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CustomOrderSystem.Entity.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CutomOrderSystem.Reository.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\EntityFramework.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CustomOrderSystem.Entity.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CustomOrderSystem.Entity.dll.config
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CutomOrderSystem.Reository.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\CutomOrderSystem.Reository.dll.config
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\bin\Debug\EntityFramework.xml
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\obj\Debug\CustomOrderSystem.Operation.csprojAssemblyReference.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\obj\Debug\CustomOrderSystem.Operation.csproj.CoreCompileInputs.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\obj\Debug\CustomOrderSystem.Operation.csproj.CopyComplete
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\obj\Debug\CustomOrderSystem.Operation.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Operation\obj\Debug\CustomOrderSystem.Operation.pdb

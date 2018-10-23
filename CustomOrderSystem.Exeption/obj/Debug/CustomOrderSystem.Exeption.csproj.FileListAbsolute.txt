@@ -1,0 +1,5 @@
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Exeption\bin\Debug\CustomOrderSystem.Exeption.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Exeption\bin\Debug\CustomOrderSystem.Exeption.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Exeption\obj\Debug\CustomOrderSystem.Exeption.csproj.CoreCompileInputs.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Exeption\obj\Debug\CustomOrderSystem.Exeption.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Exeption\obj\Debug\CustomOrderSystem.Exeption.pdb

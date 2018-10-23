@@ -1,0 +1,12 @@
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\bin\Debug\CustomOrderSystem.Entity.dll.config
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\bin\Debug\CustomOrderSystem.Entity.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\bin\Debug\CustomOrderSystem.Entity.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\bin\Debug\EntityFramework.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\bin\Debug\EntityFramework.xml
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\obj\Debug\CustomOrderSystem.Entity.csprojAssemblyReference.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\obj\Debug\CustomOrderSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\obj\Debug\CustomOrderSystem.Entity.csproj.CopyComplete
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\obj\Debug\CustomOrderSystem.Entity.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Entity\obj\Debug\CustomOrderSystem.Entity.pdb

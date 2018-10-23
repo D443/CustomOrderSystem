@@ -1,0 +1,6 @@
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Model\bin\Debug\CustomOrderSystem.Model.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Model\bin\Debug\CustomOrderSystem.Model.pdb
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Model\obj\Debug\CustomOrderSystem.Model.csprojAssemblyReference.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Model\obj\Debug\CustomOrderSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Model\obj\Debug\CustomOrderSystem.Model.dll
+C:\Users\mucah\Desktop\CustomOrderSystem\CustomOrderSystem.Model\obj\Debug\CustomOrderSystem.Model.pdb
